@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    margin-top: 50px;
+    height: 100vh;
+    background-image: linear-gradient(to bottom right, rgb(94, 181, 2), rgb(0, 255, 251));
+}
+#heading{
+    margin-top: 10px;
+    height: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+   
+    font-weight: 900;
+    
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+
+}
+.contact-detail:hover{
+    background-color: black;
+}
+.contact-detail{
+    margin-top: 40px;
+    margin-left: 35vw;
+    color: white;
+    font-size: 20px;
+    
+    height: auto;
+    width: 300px;
+    background-color: rgb(10, 14, 226);
+}
+#list{
+    display: flex;
+}

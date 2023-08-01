@@ -1,0 +1,17 @@
+{
+  "name": "contact_list",
+  "version": "1.0.0",
+  "description": "express framework",
+  "main": "index.js",
+  "entry point": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "om",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "exppress": "^0.0.1-security",
+    "mongoose": "^6.10.0"
+  }
+}
